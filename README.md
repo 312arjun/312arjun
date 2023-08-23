@@ -320,7 +320,7 @@
 <p align="center">
 <a href="mailto:312arjun@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
 	<a href="https://wa.me/919035588951"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/312arjun/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/arjun-s-691b97121/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/arjoon__s/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
   <a href="https://t.me/312arjun"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
   <a href="https://twitter.com/312arjun"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter"/></a>
