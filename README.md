@@ -30,7 +30,7 @@
 
 - Aspiring full-stack developer
 
-- I’m currently working on [CHRIST InfoTech](http://christinfotech.org)
+- I’m currently working on Simplify3x 
 
 - Know about my experiences [resume](https://312arjun.github.io/resume/)
 
