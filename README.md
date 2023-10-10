@@ -30,7 +30,7 @@
 
 - Aspiring full-stack developer
 
-- I’m currently working on Simplify3x 
+- I’m currently working @ Simplify3x 
 
 - Know about my experiences [resume](https://312arjun.github.io/resume/)
 
